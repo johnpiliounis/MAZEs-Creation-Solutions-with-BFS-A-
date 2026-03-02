@@ -40,4 +40,4 @@ a) Selectable names for saving mazes and solutions,
 
 b) Selectable maze's rows/cols size and block size,
 
-c) Not allowing adding a 2nd RED or GREEN block pair, if a pair already exist, before changing that pair into black or white, altough the solution won't consider those.
+c) Not allowing adding a 2nd RED or GREEN block pair, if a pair already exist, before changing that pair into black or white.
