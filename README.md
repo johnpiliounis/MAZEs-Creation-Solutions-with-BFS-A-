@@ -3,7 +3,7 @@ This is a C++ VS-2022 build console app, using SFML 2.6.0 x64, to randomly creat
 
 SFML: https://www.sfml-dev.org/download/
 
-Animation has been added to the solution part for understanding/looking at how the algorithms behaves/works.
+Animation has been added during solution for understanding/looking at how the algorithms behaves/works.
 
 MAZE's window IS RESIZABLE at runtime
 
