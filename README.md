@@ -40,6 +40,6 @@ Minor pending additions:
 
 a) Selectable names for saving mazes and solutions, 
 
-b) Selectable maze's rows/cols size and block size,
+b) Selectable maze's numbers of rows/cols and block size as well,
 
 c) Not allowing adding a 2nd RED or GREEN block pair, if a pair already exist, before changing that pair into black or white.
