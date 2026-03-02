@@ -30,6 +30,7 @@ By pressing 'Esc' or by clicking on the window's "X" we terminate application.
 
 
 Importand Notes:
+
 A)
 In Project's properties we need to include in the C++ 'General' tab, in "Additional Include" dir, the "c:\SFML_version\include" , and in Linker's Additional Libraries Directory tab the "c:\SFML_version\lib". Also in Linker's Input/Additional Dependencies Libs we need to add the names sfml-graphics.lib;sfml-window.lib;sfml-system.lib, for the release x64 version compilation. Else, others relevant to your compilation, offered/found in the lib dir.
 
